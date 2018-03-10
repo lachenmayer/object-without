@@ -1,0 +1,22 @@
+{
+  "name": "object-without",
+  "version": "1.0.0",
+  "main": "without.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "keywords": [
+    "object",
+    "delete",
+    "remove",
+    "without",
+    "subset",
+    "Object.assign"
+  ],
+  "author": "harry lachenmayer <harrylachenmayer@gmail.com>",
+  "description": "Returns a new object with the given key(s) removed.",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
