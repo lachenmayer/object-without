@@ -1,6 +1,8 @@
 {
-  "name": "object-without",
+  "name": "@lachenmayer/object-without",
   "version": "1.0.0",
+  "description": "Returns a new object with the given key(s) removed.",
+  "author": "harry lachenmayer <harrylachenmayer@gmail.com>",
   "main": "without.js",
   "license": "MIT",
   "scripts": {
@@ -14,8 +16,6 @@
     "subset",
     "Object.assign"
   ],
-  "author": "harry lachenmayer <harrylachenmayer@gmail.com>",
-  "description": "Returns a new object with the given key(s) removed.",
   "devDependencies": {
     "ava": "^0.25.0"
   }
